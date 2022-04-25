@@ -1,3 +1,5 @@
+**[This project is no longer maintained] 中科院开源软件协会镜像站已因『不可抗力』关闭，感谢各位朋友支持**
+
 # OpenCAS Issues Request
 
 - 申请添加新镜像
